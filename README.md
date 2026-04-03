@@ -1,17 +1,7 @@
-# go_router_demo01
+I am sorry for the mess here but I have a good explanation
+Github keeps locking "go_routing_demo01" for some reason and I tried and tried to fix it but it keeps endagering my other works in the repository 
+Nonetheless I have put it in "go_routings/go_routing/go_routing" so it wouldnt be targeted 
 
-A new Flutter project.
+All the others are 100% functional and available right out front 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Again I apologise I can answer any questions you may have 
